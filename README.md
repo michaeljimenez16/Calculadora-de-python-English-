@@ -14,7 +14,7 @@
 * *IDE: VISUAL Studios code (VS CODE)*
 
 ## AUTHOR 
-_PROJECT DEVELOPED BY *
+_PROJECT DEVELOPED BY *[Michael Jimenez]*_
 
 
 
