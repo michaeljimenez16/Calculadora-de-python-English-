@@ -9,12 +9,14 @@
 ## Key features 
 *Continuos execution using* _while_ *loops, control logic with* _if-elif-else_, *and error handling to prevent script crashes*
 
-## Technologies Used 
+## 💻 Class Tools
+###### Technologies Used 
 * *Language: 3.12+*
 * *IDE: VISUAL Studios code (VS CODE)*
 
 ## AUTHOR 
-_PROJECT DEVELOPED BY *[Michael Jimenez]*_
+* _PROJECT DEVELOPED BY *[Michael Jimenez]*_
+* **Development Environment:** Visual Studio Code (Lab PC)
 
 
 
