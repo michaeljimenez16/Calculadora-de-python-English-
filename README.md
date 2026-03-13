@@ -1,22 +1,23 @@
-# Calculadora-de-python-English-
+# Calculadora-de-python-English 
 
-## Description 
-###### LOGIC AND LEARNINGS
-*This Python scripts is an interactive console-based calculator designed to execute fundamental arithmetic operations efficiently. Its primary goals is to process numerical user inputs and apply basic mathematical operators through a structured logical control flow.*
+## Description
+*This project is a functional tool for daily mathematical tasks. It is a reliable script designed for students and developers.*
 
-*This script optimizes user experience through a* _while_ *loop that allows multiple operations without interruption. The logic relies on* _if - elif - else_ *conditionals to direct the flow bases on user choises, integrating data validation to prevent crashes from non-numeric inputs or division by zero.*
+*The calculator processes basic arithmetic operations like addition and subtraction. The user chooses an option from the menu, and the script executes the calculation immediately.* *"I am currently improving** *the code to add more advanced scientific functions*
 
-## Key features 
-*Continuos execution using* _while_ *loops, control logic with* _if-elif-else_, *and error handling to prevent script crashes*
+## How it works
+1. The user runs the script in the terminal.
+2. The program displays a menu with arithmetic options.
+3. The user enters two numbers and selects an operation.
+4. The script validates the data and shows the result.
+5. The loop allows the user to perform another calculation or exit.
 
-## 💻 Class Tools
-###### Technologies Used 
-* *Language: 3.12+*
-* *IDE: VISUAL Studios code (VS CODE)*
+> Status: This project is finished and functional, but I am still updating the documentation.
 
-## AUTHOR 
-* _PROJECT DEVELOPED BY *[Michael Jimenez]*_
-* **Development Environment:** Visual Studio Code (Lab PC)
+## 🛠️ Technologies & Logic
+- **Language:** Python 3.12+
+- **IDE:** Visual Studio Code (Lab PC)
+- **Logic:** _while_ loops for continuity and _if-elif-else_ for control flow.
 
-
-
+## 👤 Author
+Developed by **Michael Jimenez** as part of the Python 3.12+ workshop at **Riwi**.
