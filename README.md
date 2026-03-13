@@ -20,4 +20,4 @@
 - **Logic:** _while_ loops for continuity and _if-elif-else_ for control flow.
 
 ## 👤 Author
-Developed by **Michael Jimenez** as part of the Python 3.12+ workshop at **Riwi**.
+Developed by **Michael Jimenez** as part of the Python 3.12+ workshop at **Riwi Digital**.
